@@ -1,0 +1,16 @@
+D:\3 сем\ООП\лабы\lab07\lab07\obj\Debug\net5.0\lab07.csproj.AssemblyReference.cache
+D:\3 сем\ООП\лабы\lab07\lab07\obj\Debug\net5.0\lab07.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 сем\ООП\лабы\lab07\lab07\obj\Debug\net5.0\lab07.AssemblyInfoInputs.cache
+D:\3 сем\ООП\лабы\lab07\lab07\obj\Debug\net5.0\lab07.AssemblyInfo.cs
+D:\3 сем\ООП\лабы\lab07\lab07\obj\Debug\net5.0\lab07.csproj.CoreCompileInputs.cache
+D:\3 сем\ООП\лабы\lab07\lab07\bin\Debug\net5.0\lab07.exe
+D:\3 сем\ООП\лабы\lab07\lab07\bin\Debug\net5.0\lab07.deps.json
+D:\3 сем\ООП\лабы\lab07\lab07\bin\Debug\net5.0\lab07.runtimeconfig.json
+D:\3 сем\ООП\лабы\lab07\lab07\bin\Debug\net5.0\lab07.runtimeconfig.dev.json
+D:\3 сем\ООП\лабы\lab07\lab07\bin\Debug\net5.0\lab07.dll
+D:\3 сем\ООП\лабы\lab07\lab07\bin\Debug\net5.0\ref\lab07.dll
+D:\3 сем\ООП\лабы\lab07\lab07\bin\Debug\net5.0\lab07.pdb
+D:\3 сем\ООП\лабы\lab07\lab07\obj\Debug\net5.0\lab07.dll
+D:\3 сем\ООП\лабы\lab07\lab07\obj\Debug\net5.0\ref\lab07.dll
+D:\3 сем\ООП\лабы\lab07\lab07\obj\Debug\net5.0\lab07.pdb
+D:\3 сем\ООП\лабы\lab07\lab07\obj\Debug\net5.0\lab07.genruntimeconfig.cache
