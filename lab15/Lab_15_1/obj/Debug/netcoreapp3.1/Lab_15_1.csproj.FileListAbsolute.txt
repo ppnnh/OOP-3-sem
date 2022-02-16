@@ -1,0 +1,13 @@
+D:\Нада\OOP\Lab_15\Lab_15_1\bin\Debug\netcoreapp3.1\Lab_15_1.exe
+D:\Нада\OOP\Lab_15\Lab_15_1\bin\Debug\netcoreapp3.1\Lab_15_1.deps.json
+D:\Нада\OOP\Lab_15\Lab_15_1\bin\Debug\netcoreapp3.1\Lab_15_1.runtimeconfig.json
+D:\Нада\OOP\Lab_15\Lab_15_1\bin\Debug\netcoreapp3.1\Lab_15_1.runtimeconfig.dev.json
+D:\Нада\OOP\Lab_15\Lab_15_1\bin\Debug\netcoreapp3.1\Lab_15_1.dll
+D:\Нада\OOP\Lab_15\Lab_15_1\bin\Debug\netcoreapp3.1\Lab_15_1.pdb
+D:\Нада\OOP\Lab_15\Lab_15_1\obj\Debug\netcoreapp3.1\Lab_15_1.csprojAssemblyReference.cache
+D:\Нада\OOP\Lab_15\Lab_15_1\obj\Debug\netcoreapp3.1\Lab_15_1.AssemblyInfoInputs.cache
+D:\Нада\OOP\Lab_15\Lab_15_1\obj\Debug\netcoreapp3.1\Lab_15_1.AssemblyInfo.cs
+D:\Нада\OOP\Lab_15\Lab_15_1\obj\Debug\netcoreapp3.1\Lab_15_1.csproj.CoreCompileInputs.cache
+D:\Нада\OOP\Lab_15\Lab_15_1\obj\Debug\netcoreapp3.1\Lab_15_1.dll
+D:\Нада\OOP\Lab_15\Lab_15_1\obj\Debug\netcoreapp3.1\Lab_15_1.pdb
+D:\Нада\OOP\Lab_15\Lab_15_1\obj\Debug\netcoreapp3.1\Lab_15_1.genruntimeconfig.cache

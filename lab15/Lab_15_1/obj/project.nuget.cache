@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+SRdsADgV7jVs4/wvVkIAT5HyysHfigkd+fvfZP/DblaE6yEM3jmqCNfL+tKW7CHemoW6lQ7FY4cP3xzUTjCmw==",
+  "success": true,
+  "projectFilePath": "D:\\Нада\\OOP\\Lab_15\\Lab_15_1\\Lab_15_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Komarsergeevich\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Komarsergeevich\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

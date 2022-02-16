@@ -1,0 +1,1400 @@
+Name: Idle
+Id: 0
+Priority: 0
+Отказано в доступе.
+
+Name: System
+Id: 4
+Priority: 8
+Start time: 05.01.2022 13:08:32
+
+Name: Registry
+Id: 124
+Priority: 8
+Start time: 05.01.2022 13:08:30
+
+Name: smss
+Id: 440
+Priority: 11
+Start time: 05.01.2022 13:08:32
+
+Name: csrss
+Id: 736
+Priority: 13
+Start time: 05.01.2022 13:08:37
+
+Name: wininit
+Id: 836
+Priority: 13
+Start time: 05.01.2022 13:08:38
+
+Name: csrss
+Id: 844
+Priority: 13
+Start time: 05.01.2022 13:08:38
+
+Name: services
+Id: 908
+Priority: 9
+Start time: 05.01.2022 13:08:38
+
+Name: lsass
+Id: 928
+Priority: 9
+Start time: 05.01.2022 13:08:38
+
+Name: winlogon
+Id: 996
+Priority: 13
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 516
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: fontdrvhost
+Id: 1036
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: fontdrvhost
+Id: 1044
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: WUDFHost
+Id: 1112
+Priority: 13
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 1176
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 1224
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 1276
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: dwm
+Id: 1320
+Priority: 13
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 1412
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 1548
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 1568
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 1588
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 1596
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 1608
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 1764
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 1772
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 1780
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 1928
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 2012
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 708
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 1732
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 2056
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 2140
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 2204
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 2396
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 2528
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: NVDisplay.Container
+Id: 2560
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 2604
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 2672
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 2724
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 2892
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 2900
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 2908
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 2916
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: dasHost
+Id: 2952
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 2996
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 2872
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: Memory Compression
+Id: 2476
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 2484
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 3092
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 3152
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 3208
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: igfxCUIService
+Id: 3236
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 3300
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 3316
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 3368
+Priority: 8
+Start time: 05.01.2022 13:08:39
+
+Name: svchost
+Id: 3456
+Priority: 8
+Start time: 05.01.2022 13:08:40
+
+Name: svchost
+Id: 3596
+Priority: 8
+Start time: 05.01.2022 13:08:40
+
+Name: svchost
+Id: 3668
+Priority: 8
+Start time: 05.01.2022 13:08:40
+
+Name: svchost
+Id: 3800
+Priority: 8
+Start time: 05.01.2022 13:08:40
+
+Name: svchost
+Id: 3888
+Priority: 8
+Start time: 05.01.2022 13:08:40
+
+Name: NVDisplay.Container
+Id: 4104
+Priority: 8
+Start time: 05.01.2022 13:08:40
+
+Name: svchost
+Id: 4136
+Priority: 8
+Start time: 05.01.2022 13:08:40
+
+Name: svchost
+Id: 4192
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: WmiPrvSE
+Id: 4248
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: RtkAudioService64
+Id: 4424
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: svchost
+Id: 4492
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: svchost
+Id: 4504
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: svchost
+Id: 4656
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: svchost
+Id: 4664
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: svchost
+Id: 4848
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: svchost
+Id: 4900
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: svchost
+Id: 4908
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: svchost
+Id: 5024
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: spoolsv
+Id: 5140
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: svchost
+Id: 5276
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: svchost
+Id: 5320
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: svchost
+Id: 5332
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: svchost
+Id: 5380
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: RtkBtManServ
+Id: 5412
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: XtuService
+Id: 5420
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: svchost
+Id: 5428
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: ETDService
+Id: 5436
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: IntelCpHDCPSvc
+Id: 5448
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: lkads
+Id: 5456
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: PsiService_2
+Id: 5464
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: svchost
+Id: 5472
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: armsvc
+Id: 5484
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: service_update
+Id: 5492
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: jhi_service
+Id: 5500
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: rutserv
+Id: 5508
+Priority: 13
+Start time: 05.01.2022 13:08:41
+
+Name: WmiPrvSE
+Id: 5532
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: TeamViewer_Service
+Id: 5540
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: svchost
+Id: 5564
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: LMS
+Id: 5576
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: svchost
+Id: 5592
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: OfficeClickToRun
+Id: 5616
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: SystemWebServer
+Id: 5664
+Priority: 8
+Start time: 05.01.2022 13:08:41
+
+Name: esif_uf
+Id: 5716
+Priority: 13
+Start time: 05.01.2022 13:08:41
+
+Name: MsMpEng
+Id: 6008
+Priority: 8
+Start time: 05.01.2022 13:08:42
+
+Name: service_update
+Id: 6052
+Priority: 8
+Start time: 05.01.2022 13:08:42
+
+Name: svchost
+Id: 6136
+Priority: 8
+Start time: 05.01.2022 13:08:42
+
+Name: svchost
+Id: 6160
+Priority: 8
+Start time: 05.01.2022 13:08:42
+
+Name: ETDCtrlHelper
+Id: 6192
+Priority: 10
+Start time: 05.01.2022 13:08:42
+
+Name: IntelCpHeciSvc
+Id: 6332
+Priority: 8
+Start time: 05.01.2022 13:08:42
+
+Name: lktsrv
+Id: 6600
+Priority: 8
+Start time: 05.01.2022 13:08:42
+
+Name: lkcitdl
+Id: 6608
+Priority: 8
+Start time: 05.01.2022 13:08:42
+
+Name: nidmsrv
+Id: 6616
+Priority: 8
+Start time: 05.01.2022 13:08:42
+
+Name: svchost
+Id: 6648
+Priority: 8
+Start time: 05.01.2022 13:08:42
+
+Name: rfusclient
+Id: 7228
+Priority: 13
+Start time: 05.01.2022 13:08:42
+
+Name: wlanext
+Id: 7284
+Priority: 8
+Start time: 05.01.2022 13:08:42
+
+Name: conhost
+Id: 7300
+Priority: 8
+Start time: 05.01.2022 13:08:42
+
+Name: svchost
+Id: 7940
+Priority: 8
+Start time: 05.01.2022 13:08:43
+
+Name: NisSrv
+Id: 8824
+Priority: 8
+Start time: 05.01.2022 13:08:47
+
+Name: ETDCtrl
+Id: 9096
+Priority: 10
+Start time: 05.01.2022 13:08:48
+
+Name: sihost
+Id: 7412
+Priority: 8
+Start time: 05.01.2022 13:08:48
+
+Name: svchost
+Id: 8296
+Priority: 8
+Start time: 05.01.2022 13:08:48
+
+Name: svchost
+Id: 8288
+Priority: 8
+Start time: 05.01.2022 13:08:48
+
+Name: PresentationFontCache
+Id: 8316
+Priority: 8
+Start time: 05.01.2022 13:08:48
+
+Name: svchost
+Id: 8416
+Priority: 8
+Start time: 05.01.2022 13:08:48
+
+Name: svchost
+Id: 8184
+Priority: 8
+Start time: 05.01.2022 13:08:48
+
+Name: taskhostw
+Id: 8552
+Priority: 8
+Start time: 05.01.2022 13:08:48
+
+Name: svchost
+Id: 8980
+Priority: 8
+Start time: 05.01.2022 13:08:48
+
+Name: ApplicationWebServer
+Id: 8920
+Priority: 8
+Start time: 05.01.2022 13:08:48
+
+Name: nimdnsResponder
+Id: 8972
+Priority: 8
+Start time: 05.01.2022 13:08:48
+
+Name: ctfmon
+Id: 8496
+Priority: 13
+Start time: 05.01.2022 13:08:48
+
+Name: ETDTouch
+Id: 476
+Priority: 8
+Start time: 05.01.2022 13:08:48
+
+Name: explorer
+Id: 5308
+Priority: 8
+Start time: 05.01.2022 13:08:48
+
+Name: igfxEM
+Id: 5376
+Priority: 8
+Start time: 05.01.2022 13:08:48
+
+Name: svchost
+Id: 9224
+Priority: 8
+Start time: 05.01.2022 13:08:48
+
+Name: rfusclient
+Id: 9404
+Priority: 8
+Start time: 05.01.2022 13:08:49
+
+Name: svchost
+Id: 9820
+Priority: 8
+Start time: 05.01.2022 13:08:49
+
+Name: StartMenuExperienceHost
+Id: 9356
+Priority: 8
+Start time: 05.01.2022 13:08:50
+
+Name: RuntimeBroker
+Id: 9624
+Priority: 8
+Start time: 05.01.2022 13:08:50
+
+Name: SearchApp
+Id: 8000
+Priority: 8
+Start time: 05.01.2022 13:08:51
+
+Name: SearchIndexer
+Id: 8620
+Priority: 8
+Start time: 05.01.2022 13:08:51
+
+Name: RuntimeBroker
+Id: 10288
+Priority: 8
+Start time: 05.01.2022 13:08:51
+
+Name: svchost
+Id: 10556
+Priority: 8
+Start time: 05.01.2022 13:08:51
+
+Name: YourPhone
+Id: 10756
+Priority: 8
+Start time: 05.01.2022 13:08:51
+
+Name: SettingSyncHost
+Id: 10804
+Priority: 6
+Start time: 05.01.2022 13:08:51
+
+Name: dllhost
+Id: 11024
+Priority: 8
+Start time: 05.01.2022 13:08:52
+
+Name: RuntimeBroker
+Id: 11200
+Priority: 8
+Start time: 05.01.2022 13:08:52
+
+Name: RuntimeBroker
+Id: 8148
+Priority: 8
+Start time: 05.01.2022 13:08:55
+
+Name: TextInputHost
+Id: 11464
+Priority: 8
+Start time: 05.01.2022 13:09:00
+
+Name: SecurityHealthSystray
+Id: 11624
+Priority: 8
+Start time: 05.01.2022 13:09:02
+
+Name: SecurityHealthService
+Id: 11664
+Priority: 8
+Start time: 05.01.2022 13:09:02
+
+Name: taskhostw
+Id: 11752
+Priority: 8
+Start time: 05.01.2022 13:09:02
+
+Name: OneDrive
+Id: 11780
+Priority: 8
+Start time: 05.01.2022 13:09:03
+
+Name: BrowserManager
+Id: 12060
+Priority: 8
+Start time: 05.01.2022 13:09:05
+
+Name: Zona
+Id: 12124
+Priority: 8
+Start time: 05.01.2022 13:09:06
+
+Name: mediaget
+Id: 12232
+Priority: 8
+Start time: 05.01.2022 13:09:06
+
+Name: mediaget_crashpad_handler
+Id: 10136
+Priority: 8
+Start time: 05.01.2022 13:09:07
+
+Name: yaoffer50160
+Id: 10276
+Priority: 8
+Start time: 05.01.2022 13:09:07
+
+Name: dstudio-gui
+Id: 11416
+Priority: 8
+Start time: 05.01.2022 13:09:08
+
+Name: dstudio
+Id: 11384
+Priority: 8
+Start time: 05.01.2022 13:09:08
+
+Name: conhost
+Id: 11376
+Priority: 8
+Start time: 05.01.2022 13:09:08
+
+Name: QtWebEngineProcess
+Id: 11968
+Priority: 8
+Start time: 05.01.2022 13:09:08
+
+Name: QtWebEngineProcess
+Id: 11372
+Priority: 8
+Start time: 05.01.2022 13:09:09
+
+Name: msedge
+Id: 1664
+Priority: 8
+Start time: 05.01.2022 13:09:09
+
+Name: svchost
+Id: 1652
+Priority: 8
+Start time: 05.01.2022 13:09:09
+
+Name: msedge
+Id: 12332
+Priority: 8
+Start time: 05.01.2022 13:09:09
+
+Name: msedge
+Id: 12528
+Priority: 10
+Start time: 05.01.2022 13:09:10
+
+Name: msedge
+Id: 12536
+Priority: 8
+Start time: 05.01.2022 13:09:10
+
+Name: browser_assistant
+Id: 12548
+Priority: 8
+Start time: 05.01.2022 13:09:10
+
+Name: browser_assistant
+Id: 12720
+Priority: 8
+Start time: 05.01.2022 13:09:10
+
+Name: msedge
+Id: 12840
+Priority: 8
+Start time: 05.01.2022 13:09:10
+
+Name: unsecapp
+Id: 13124
+Priority: 8
+Start time: 05.01.2022 13:09:10
+
+Name: DTAgent
+Id: 13272
+Priority: 8
+Start time: 05.01.2022 13:09:11
+
+Name: msedge
+Id: 12740
+Priority: 8
+Start time: 05.01.2022 13:09:11
+
+Name: msedge
+Id: 13060
+Priority: 8
+Start time: 05.01.2022 13:09:12
+
+Name: browser
+Id: 1700
+Priority: 8
+Start time: 05.01.2022 13:09:13
+
+Name: browser
+Id: 5692
+Priority: 8
+Start time: 05.01.2022 13:09:13
+
+Name: DiscSoftBusServiceLite
+Id: 6236
+Priority: 8
+Start time: 05.01.2022 13:09:13
+
+Name: svchost
+Id: 13528
+Priority: 8
+Start time: 05.01.2022 13:09:14
+
+Name: browser
+Id: 13540
+Priority: 10
+Start time: 05.01.2022 13:09:14
+
+Name: browser
+Id: 13584
+Priority: 8
+Start time: 05.01.2022 13:09:14
+
+Name: browser
+Id: 13748
+Priority: 8
+Start time: 05.01.2022 13:09:14
+
+Name: msedge
+Id: 13804
+Priority: 4
+Start time: 05.01.2022 13:09:14
+
+Name: browser
+Id: 14148
+Priority: 8
+Start time: 05.01.2022 13:09:15
+
+Name: browser
+Id: 14188
+Priority: 8
+Start time: 05.01.2022 13:09:15
+
+Name: browser
+Id: 14456
+Priority: 8
+Start time: 05.01.2022 13:09:17
+
+Name: MpCopyAccelerator
+Id: 14700
+Priority: 8
+Start time: 05.01.2022 13:09:17
+
+Name: desktopcal
+Id: 14736
+Priority: 8
+Start time: 05.01.2022 13:09:17
+
+Name: dkdockhost
+Id: 15036
+Priority: 8
+Start time: 05.01.2022 13:09:18
+
+Name: msedge
+Id: 15100
+Priority: 4
+Start time: 05.01.2022 13:09:18
+
+Name: Cortana
+Id: 14864
+Priority: 8
+Start time: 05.01.2022 13:09:19
+
+Name: SSScheduler
+Id: 8904
+Priority: 8
+Start time: 05.01.2022 13:09:20
+
+Name: RuntimeBroker
+Id: 15060
+Priority: 8
+Start time: 05.01.2022 13:09:20
+
+Name: jusched
+Id: 13996
+Priority: 8
+Start time: 05.01.2022 13:09:20
+
+Name: svchost
+Id: 15204
+Priority: 8
+Start time: 05.01.2022 13:09:20
+
+Name: Win32Bridge.Server
+Id: 14404
+Priority: 8
+Start time: 05.01.2022 13:09:20
+
+Name: nierserver
+Id: 8596
+Priority: 8
+Start time: 05.01.2022 13:09:20
+
+Name: msedge
+Id: 15856
+Priority: 8
+Start time: 05.01.2022 13:09:22
+
+Name: msedge
+Id: 15384
+Priority: 4
+Start time: 05.01.2022 13:09:25
+
+Name: svchost
+Id: 14860
+Priority: 8
+Start time: 05.01.2022 13:09:34
+
+Name: devenv
+Id: 14224
+Priority: 8
+Start time: 05.01.2022 13:09:41
+
+Name: SystemSettings
+Id: 9556
+Priority: 8
+Start time: 05.01.2022 13:09:42
+
+Name: ApplicationFrameHost
+Id: 9512
+Priority: 8
+Start time: 05.01.2022 13:09:42
+
+Name: PerfWatson2
+Id: 15704
+Priority: 8
+Start time: 05.01.2022 13:09:43
+
+Name: UserOOBEBroker
+Id: 856
+Priority: 8
+Start time: 05.01.2022 13:09:44
+
+Name: Microsoft.ServiceHub.Controller
+Id: 1800
+Priority: 8
+Start time: 05.01.2022 13:09:44
+
+Name: ServiceHub.VSDetouredHost
+Id: 5784
+Priority: 8
+Start time: 05.01.2022 13:09:45
+
+Name: ServiceHub.ThreadedWaitDialog
+Id: 6920
+Priority: 8
+Start time: 05.01.2022 13:09:47
+
+Name: ServiceHub.RoslynCodeAnalysisService
+Id: 14184
+Priority: 8
+Start time: 05.01.2022 13:09:52
+
+Name: ServiceHub.IdentityHost
+Id: 4120
+Priority: 8
+Start time: 05.01.2022 13:09:53
+
+Name: ServiceHub.Host.CLR.x64
+Id: 12468
+Priority: 8
+Start time: 05.01.2022 13:09:55
+
+Name: ServiceHub.Host.CLR.x86
+Id: 9124
+Priority: 8
+Start time: 05.01.2022 13:09:55
+
+Name: ServiceHub.Host.CLR.x86
+Id: 3060
+Priority: 8
+Start time: 05.01.2022 13:09:59
+
+Name: ServiceHub.SettingsHost
+Id: 11112
+Priority: 8
+Start time: 05.01.2022 13:09:59
+
+Name: devenv
+Id: 8356
+Priority: 8
+Start time: 05.01.2022 13:10:04
+
+Name: PerfWatson2
+Id: 14208
+Priority: 8
+Start time: 05.01.2022 13:10:05
+
+Name: Microsoft.ServiceHub.Controller
+Id: 4128
+Priority: 8
+Start time: 05.01.2022 13:10:06
+
+Name: ServiceHub.VSDetouredHost
+Id: 16436
+Priority: 8
+Start time: 05.01.2022 13:10:06
+
+Name: ServiceHub.ThreadedWaitDialog
+Id: 16688
+Priority: 8
+Start time: 05.01.2022 13:10:09
+
+Name: ServiceHub.RoslynCodeAnalysisService
+Id: 16872
+Priority: 8
+Start time: 05.01.2022 13:10:11
+
+Name: ServiceHub.IdentityHost
+Id: 17032
+Priority: 8
+Start time: 05.01.2022 13:10:12
+
+Name: ServiceHub.Host.CLR.x64
+Id: 17384
+Priority: 8
+Start time: 05.01.2022 13:10:13
+
+Name: ServiceHub.Host.CLR.x86
+Id: 16412
+Priority: 8
+Start time: 05.01.2022 13:10:14
+
+Name: devenv
+Id: 12572
+Priority: 8
+Start time: 05.01.2022 13:10:15
+
+Name: PerfWatson2
+Id: 12556
+Priority: 8
+Start time: 05.01.2022 13:10:16
+
+Name: Microsoft.ServiceHub.Controller
+Id: 15780
+Priority: 8
+Start time: 05.01.2022 13:10:17
+
+Name: ServiceHub.SettingsHost
+Id: 14344
+Priority: 8
+Start time: 05.01.2022 13:10:17
+
+Name: ServiceHub.VSDetouredHost
+Id: 12976
+Priority: 8
+Start time: 05.01.2022 13:10:17
+
+Name: ServiceHub.Host.CLR.x86
+Id: 13596
+Priority: 8
+Start time: 05.01.2022 13:10:17
+
+Name: ServiceHub.ThreadedWaitDialog
+Id: 17872
+Priority: 8
+Start time: 05.01.2022 13:10:19
+
+Name: ServiceHub.RoslynCodeAnalysisService
+Id: 18200
+Priority: 8
+Start time: 05.01.2022 13:10:23
+
+Name: ServiceHub.IdentityHost
+Id: 8884
+Priority: 8
+Start time: 05.01.2022 13:10:24
+
+Name: ServiceHub.Host.CLR.x64
+Id: 18268
+Priority: 8
+Start time: 05.01.2022 13:10:26
+
+Name: ServiceHub.Host.CLR.x86
+Id: 18456
+Priority: 8
+Start time: 05.01.2022 13:10:26
+
+Name: devenv
+Id: 18496
+Priority: 8
+Start time: 05.01.2022 13:10:26
+
+Name: PerfWatson2
+Id: 19028
+Priority: 8
+Start time: 05.01.2022 13:10:28
+
+Name: Microsoft.ServiceHub.Controller
+Id: 19432
+Priority: 8
+Start time: 05.01.2022 13:10:29
+
+Name: ServiceHub.VSDetouredHost
+Id: 18828
+Priority: 8
+Start time: 05.01.2022 13:10:29
+
+Name: ServiceHub.SettingsHost
+Id: 18984
+Priority: 8
+Start time: 05.01.2022 13:10:30
+
+Name: ServiceHub.Host.CLR.x86
+Id: 19140
+Priority: 8
+Start time: 05.01.2022 13:10:30
+
+Name: ServiceHub.ThreadedWaitDialog
+Id: 17364
+Priority: 8
+Start time: 05.01.2022 13:10:32
+
+Name: ServiceHub.RoslynCodeAnalysisService
+Id: 19740
+Priority: 8
+Start time: 05.01.2022 13:10:36
+
+Name: ServiceHub.IdentityHost
+Id: 20032
+Priority: 8
+Start time: 05.01.2022 13:10:37
+
+Name: ServiceHub.SettingsHost
+Id: 20396
+Priority: 8
+Start time: 05.01.2022 13:10:42
+
+Name: ServiceHub.Host.CLR.x64
+Id: 20344
+Priority: 8
+Start time: 05.01.2022 13:10:45
+
+Name: ServiceHub.Host.CLR.x86
+Id: 20352
+Priority: 8
+Start time: 05.01.2022 13:10:45
+
+Name: svchost
+Id: 20332
+Priority: 8
+Start time: 05.01.2022 13:10:48
+
+Name: AvastBrowserUpdate
+Id: 8912
+Priority: 4
+Start time: 05.01.2022 13:10:48
+
+Name: AvastBrowserCrashHandler
+Id: 3196
+Priority: 4
+Start time: 05.01.2022 13:10:48
+
+Name: AvastBrowserCrashHandler64
+Id: 15536
+Priority: 4
+Start time: 05.01.2022 13:10:48
+
+Name: GoogleUpdate
+Id: 13400
+Priority: 4
+Start time: 05.01.2022 13:10:49
+
+Name: SgrmBroker
+Id: 14488
+Priority: 8
+Start time: 05.01.2022 13:10:49
+
+Name: svchost
+Id: 19996
+Priority: 8
+Start time: 05.01.2022 13:10:49
+
+Name: ServiceHub.Host.CLR.x86
+Id: 6340
+Priority: 8
+Start time: 05.01.2022 13:10:49
+
+Name: Video.UI
+Id: 20928
+Priority: 8
+Start time: 05.01.2022 13:10:59
+
+Name: RuntimeBroker
+Id: 21072
+Priority: 8
+Start time: 05.01.2022 13:10:59
+
+Name: taskhost
+Id: 21384
+Priority: 8
+Start time: 05.01.2022 13:11:08
+
+Name: Calculator
+Id: 3908
+Priority: 8
+Start time: 05.01.2022 13:11:10
+
+Name: RuntimeBroker
+Id: 8232
+Priority: 8
+Start time: 05.01.2022 13:11:10
+
+Name: audiodg
+Id: 8976
+Priority: 8
+Start time: 05.01.2022 13:11:22
+
+Name: MicrosoftHost
+Id: 21152
+Priority: 8
+Start time: 05.01.2022 13:11:23
+
+Name: conhost
+Id: 15132
+Priority: 8
+Start time: 05.01.2022 13:11:23
+
+Name: svchost
+Id: 9976
+Priority: 8
+Start time: 05.01.2022 13:11:26
+
+Name: svchost
+Id: 17516
+Priority: 8
+Start time: 05.01.2022 13:14:09
+
+Name: chrome
+Id: 21404
+Priority: 8
+Start time: 05.01.2022 13:24:52
+
+Name: chrome
+Id: 12708
+Priority: 8
+Start time: 05.01.2022 13:24:53
+
+Name: chrome
+Id: 3868
+Priority: 10
+Start time: 05.01.2022 13:24:53
+
+Name: chrome
+Id: 1968
+Priority: 8
+Start time: 05.01.2022 13:24:53
+
+Name: chrome
+Id: 1884
+Priority: 8
+Start time: 05.01.2022 13:24:53
+
+Name: chrome
+Id: 19564
+Priority: 4
+Start time: 05.01.2022 13:24:53
+
+Name: chrome
+Id: 10524
+Priority: 8
+Start time: 05.01.2022 13:24:53
+
+Name: chrome
+Id: 19576
+Priority: 8
+Start time: 05.01.2022 13:24:53
+
+Name: chrome
+Id: 9428
+Priority: 8
+Start time: 05.01.2022 13:24:54
+
+Name: chrome
+Id: 3840
+Priority: 4
+Start time: 05.01.2022 13:24:54
+
+Name: chrome
+Id: 5304
+Priority: 4
+Start time: 05.01.2022 13:24:55
+
+Name: chrome
+Id: 21200
+Priority: 4
+Start time: 05.01.2022 13:24:55
+
+Name: svchost
+Id: 20760
+Priority: 8
+Start time: 05.01.2022 13:27:12
+
+Name: msedge
+Id: 14168
+Priority: 4
+Start time: 05.01.2022 13:38:28
+
+Name: msedge
+Id: 9560
+Priority: 4
+Start time: 05.01.2022 13:38:28
+
+Name: SearchProtocolHost
+Id: 9392
+Priority: 4
+Start time: 05.01.2022 13:42:19
+
+Name: DTShellHlp
+Id: 9004
+Priority: 8
+Start time: 05.01.2022 13:44:10
+
+Name: SearchFilterHost
+Id: 14024
+Priority: 4
+Start time: 05.01.2022 13:47:30
+
+Name: VsDebugConsole
+Id: 10000
+Priority: 8
+Start time: 05.01.2022 13:49:17
+
+Name: conhost
+Id: 3288
+Priority: 8
+Start time: 05.01.2022 13:49:17
+
+Name: Lab_15
+Id: 20024
+Priority: 8
+Start time: 05.01.2022 13:49:17
+
