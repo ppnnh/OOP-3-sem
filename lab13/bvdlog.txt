@@ -1,0 +1,102 @@
+Disk Name C:\
+Disk space 105165877248
+Disk free space 4613492736
+Volume label C:\
+
+Disk Name D:\
+Disk space 406148083712
+Disk free space 50424799232
+Volume label D:\
+
+
+Space 0
+Extension .txt
+Name bvdlog.txt
+
+
+$Session - 12.01.2022 0:00:00$
+Disk Name C:\
+Disk space 105165877248
+Disk free space 4608921600
+Volume label C:\
+
+Disk Name D:\
+Disk space 406148083712
+Disk free space 50424664064
+Volume label D:\
+
+
+Space 243
+Extension .txt
+Name bvdlog.txt
+
+
+$Session - 12.01.2022 0:00:00$
+Disk Name C:\
+Disk space 105165877248
+Disk free space 4607442944
+Volume label C:\
+
+Disk Name D:\
+Disk space 406148083712
+Disk free space 50424664064
+Volume label D:\
+
+
+Space 488
+Extension .txt
+Name bvdlog.txt
+
+
+$Session - 12.01.2022 0:00:00$
+Disk Name C:\
+Disk space 105165877248
+Disk free space 4608724992
+Volume label C:\
+
+Disk Name D:\
+Disk space 406148083712
+Disk free space 50424659968
+Volume label D:\
+
+
+Space 733
+Extension .txt
+Name bvdlog.txt
+
+
+$Session - 12.01.2022 0:00:00$
+Disk Name C:\
+Disk space 105165877248
+Disk free space 4606476288
+Volume label C:\
+
+Disk Name D:\
+Disk space 406148083712
+Disk free space 50424659968
+Volume label D:\
+
+
+Space 978
+Extension .txt
+Name bvdlog.txt
+
+
+$Session - 12.01.2022 0:00:00$
+Disk Name C:\
+Disk space 105165877248
+Disk free space 4606914560
+Volume label C:\
+
+Disk Name D:\
+Disk space 406148083712
+Disk free space 50424672256
+Volume label D:\
+
+
+Space 1223
+Extension .txt
+Name bvdlog.txt
+
+
+$Session - 12.01.2022 0:00:00$

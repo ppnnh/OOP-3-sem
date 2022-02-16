@@ -1,0 +1,16 @@
+D:\3 сем\ООП\лабы\lab13\lab13\bin\Debug\net5.0\lab13.exe
+D:\3 сем\ООП\лабы\lab13\lab13\bin\Debug\net5.0\lab13.deps.json
+D:\3 сем\ООП\лабы\lab13\lab13\bin\Debug\net5.0\lab13.runtimeconfig.json
+D:\3 сем\ООП\лабы\lab13\lab13\bin\Debug\net5.0\lab13.runtimeconfig.dev.json
+D:\3 сем\ООП\лабы\lab13\lab13\bin\Debug\net5.0\lab13.dll
+D:\3 сем\ООП\лабы\lab13\lab13\bin\Debug\net5.0\ref\lab13.dll
+D:\3 сем\ООП\лабы\lab13\lab13\bin\Debug\net5.0\lab13.pdb
+D:\3 сем\ООП\лабы\lab13\lab13\obj\Debug\net5.0\lab13.csproj.AssemblyReference.cache
+D:\3 сем\ООП\лабы\lab13\lab13\obj\Debug\net5.0\lab13.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 сем\ООП\лабы\lab13\lab13\obj\Debug\net5.0\lab13.AssemblyInfoInputs.cache
+D:\3 сем\ООП\лабы\lab13\lab13\obj\Debug\net5.0\lab13.AssemblyInfo.cs
+D:\3 сем\ООП\лабы\lab13\lab13\obj\Debug\net5.0\lab13.csproj.CoreCompileInputs.cache
+D:\3 сем\ООП\лабы\lab13\lab13\obj\Debug\net5.0\lab13.dll
+D:\3 сем\ООП\лабы\lab13\lab13\obj\Debug\net5.0\ref\lab13.dll
+D:\3 сем\ООП\лабы\lab13\lab13\obj\Debug\net5.0\lab13.pdb
+D:\3 сем\ООП\лабы\lab13\lab13\obj\Debug\net5.0\lab13.genruntimeconfig.cache
