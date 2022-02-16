@@ -1,0 +1,26 @@
+D:\Нада\OOP\Lab_16\Lab_16\bin\Debug\netcoreapp3.1\Lab_16.exe
+D:\Нада\OOP\Lab_16\Lab_16\bin\Debug\netcoreapp3.1\Lab_16.deps.json
+D:\Нада\OOP\Lab_16\Lab_16\bin\Debug\netcoreapp3.1\Lab_16.runtimeconfig.json
+D:\Нада\OOP\Lab_16\Lab_16\bin\Debug\netcoreapp3.1\Lab_16.runtimeconfig.dev.json
+D:\Нада\OOP\Lab_16\Lab_16\bin\Debug\netcoreapp3.1\Lab_16.dll
+D:\Нада\OOP\Lab_16\Lab_16\bin\Debug\netcoreapp3.1\Lab_16.pdb
+D:\Нада\OOP\Lab_16\Lab_16\obj\Debug\netcoreapp3.1\Lab_16.AssemblyInfoInputs.cache
+D:\Нада\OOP\Lab_16\Lab_16\obj\Debug\netcoreapp3.1\Lab_16.AssemblyInfo.cs
+D:\Нада\OOP\Lab_16\Lab_16\obj\Debug\netcoreapp3.1\Lab_16.csproj.CoreCompileInputs.cache
+D:\Нада\OOP\Lab_16\Lab_16\obj\Debug\netcoreapp3.1\Lab_16.dll
+D:\Нада\OOP\Lab_16\Lab_16\obj\Debug\netcoreapp3.1\Lab_16.pdb
+D:\Нада\OOP\Lab_16\Lab_16\obj\Debug\netcoreapp3.1\Lab_16.genruntimeconfig.cache
+D:\Нада\OOP\Lab_16\Lab_16\obj\Debug\netcoreapp3.1\Lab_16.csprojAssemblyReference.cache
+D:\3 сем\ООП\лабы\Lab_16\Lab_16\bin\Debug\netcoreapp3.1\Lab_16.exe
+D:\3 сем\ООП\лабы\Lab_16\Lab_16\bin\Debug\netcoreapp3.1\Lab_16.deps.json
+D:\3 сем\ООП\лабы\Lab_16\Lab_16\bin\Debug\netcoreapp3.1\Lab_16.runtimeconfig.json
+D:\3 сем\ООП\лабы\Lab_16\Lab_16\bin\Debug\netcoreapp3.1\Lab_16.runtimeconfig.dev.json
+D:\3 сем\ООП\лабы\Lab_16\Lab_16\bin\Debug\netcoreapp3.1\Lab_16.dll
+D:\3 сем\ООП\лабы\Lab_16\Lab_16\bin\Debug\netcoreapp3.1\Lab_16.pdb
+D:\3 сем\ООП\лабы\Lab_16\Lab_16\obj\Debug\netcoreapp3.1\Lab_16.csproj.AssemblyReference.cache
+D:\3 сем\ООП\лабы\Lab_16\Lab_16\obj\Debug\netcoreapp3.1\Lab_16.AssemblyInfoInputs.cache
+D:\3 сем\ООП\лабы\Lab_16\Lab_16\obj\Debug\netcoreapp3.1\Lab_16.AssemblyInfo.cs
+D:\3 сем\ООП\лабы\Lab_16\Lab_16\obj\Debug\netcoreapp3.1\Lab_16.csproj.CoreCompileInputs.cache
+D:\3 сем\ООП\лабы\Lab_16\Lab_16\obj\Debug\netcoreapp3.1\Lab_16.dll
+D:\3 сем\ООП\лабы\Lab_16\Lab_16\obj\Debug\netcoreapp3.1\Lab_16.pdb
+D:\3 сем\ООП\лабы\Lab_16\Lab_16\obj\Debug\netcoreapp3.1\Lab_16.genruntimeconfig.cache
