@@ -1,0 +1,16 @@
+D:\3 сем\ООП\лабы\lab09\lab09\bin\Debug\net5.0\lab09.exe
+D:\3 сем\ООП\лабы\lab09\lab09\bin\Debug\net5.0\lab09.deps.json
+D:\3 сем\ООП\лабы\lab09\lab09\bin\Debug\net5.0\lab09.runtimeconfig.json
+D:\3 сем\ООП\лабы\lab09\lab09\bin\Debug\net5.0\lab09.runtimeconfig.dev.json
+D:\3 сем\ООП\лабы\lab09\lab09\bin\Debug\net5.0\lab09.dll
+D:\3 сем\ООП\лабы\lab09\lab09\bin\Debug\net5.0\ref\lab09.dll
+D:\3 сем\ООП\лабы\lab09\lab09\bin\Debug\net5.0\lab09.pdb
+D:\3 сем\ООП\лабы\lab09\lab09\obj\Debug\net5.0\lab09.csproj.AssemblyReference.cache
+D:\3 сем\ООП\лабы\lab09\lab09\obj\Debug\net5.0\lab09.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 сем\ООП\лабы\lab09\lab09\obj\Debug\net5.0\lab09.AssemblyInfoInputs.cache
+D:\3 сем\ООП\лабы\lab09\lab09\obj\Debug\net5.0\lab09.AssemblyInfo.cs
+D:\3 сем\ООП\лабы\lab09\lab09\obj\Debug\net5.0\lab09.csproj.CoreCompileInputs.cache
+D:\3 сем\ООП\лабы\lab09\lab09\obj\Debug\net5.0\lab09.dll
+D:\3 сем\ООП\лабы\lab09\lab09\obj\Debug\net5.0\ref\lab09.dll
+D:\3 сем\ООП\лабы\lab09\lab09\obj\Debug\net5.0\lab09.pdb
+D:\3 сем\ООП\лабы\lab09\lab09\obj\Debug\net5.0\lab09.genruntimeconfig.cache
